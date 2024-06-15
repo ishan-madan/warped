@@ -1,0 +1,16 @@
+{
+"companyName": "Madan Games",
+"productName": "Warped",
+"productVersion": "0.1",
+"dataUrl": "Warped v0.3.data.unityweb",
+"wasmCodeUrl": "Warped v0.3.wasm.code.unityweb",
+"wasmFrameworkUrl": "Warped v0.3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#101B1A",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
