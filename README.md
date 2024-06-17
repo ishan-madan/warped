@@ -1,9 +1,9 @@
- # $\textsf{\color{lime} Warped}$ $\text{ }$ $\text{ }$ [Play](https://warped.netlify.app/)
+ # $\textsf{\color{skyblue} Warped}$ $\text{ }$ $\text{ }$ [Play](https://warped.netlify.app/)
 
-## $\textsf{\color{purple} Description}$
+## $\textsf{\color{lightgreen} Description}$
 Embark on an exhilarating journey through a futuristic space station in this immersive third-person maze solving game. Navigate intricate corridors, evade hazardous obstacles, and uncover the secrets to escape. Experience realistic human animations and detailed environmental interactions amidst dynamic laser and fire animations. Learn game mechanics through an interactive tutorial and utilize an elevator feature for multi-story exploration. Immerse yourself in attention to detail within the space station's environments, complemented by engaging music and sound effects that enhance the atmospheric experience.
 
-## $\textsf{\color{purple} Features}$
+## $\textsf{\color{lightgreen} Features}$
 
 ### 1. Gameplay Mechanics
 - **Space Station Escape:** Players navigate through a challenging maze inside a space station, aiming to escape by overcoming obstacles and finding the exit.
@@ -36,9 +36,9 @@ Embark on an exhilarating journey through a futuristic space station in this imm
 
 
 
-## $\textsf{\color{purple} Languages and Utilities Used}$
+## $\textsf{\color{lightgreen} Languages and Utilities Used}$
 - Unity
 - C#
 
-## $\textsf{\color{purple} Play Now}$
+## $\textsf{\color{lightgreen} Play Now}$
 [https://warped.netlify.app/](https://warped.netlify.app/)
